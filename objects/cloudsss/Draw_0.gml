@@ -1,0 +1,1 @@
+draw_sprite(clouds,0,oCamera.x - 1,oCamera.y)

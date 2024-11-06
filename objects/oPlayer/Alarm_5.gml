@@ -1,0 +1,1 @@
+global.hitting = 0

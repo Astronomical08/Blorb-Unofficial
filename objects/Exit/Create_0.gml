@@ -1,0 +1,1 @@
+global.Menu = 1 

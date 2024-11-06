@@ -1,0 +1,1 @@
+canEmote = 1

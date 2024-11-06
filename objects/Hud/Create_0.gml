@@ -1,0 +1,8 @@
+
+
+global.deaths = 0
+
+
+
+
+

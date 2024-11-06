@@ -1,0 +1,1 @@
+x = OBSOLETE_CAMERA_FUCK.x

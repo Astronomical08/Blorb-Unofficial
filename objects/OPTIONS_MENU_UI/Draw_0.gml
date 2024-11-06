@@ -1,0 +1,6 @@
+draw_text(0,0, global.LANG[9] + string(global.VolumeMusic))
+draw_text(0,+ 30, global.LANG[9] + string(global.VolumeSFX))
+draw_text(0,+ 60, global.LANG[10] + string(window_get_fullscreen()))
+draw_text(0,+ 90, global.LANG[11] + discordRPC)
+draw_set_halign(fa_center)
+//draw_set_valign(fa_middle)

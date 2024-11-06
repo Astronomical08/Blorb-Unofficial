@@ -1,0 +1,9 @@
+A step by step tutorial on how to add custom languages to Blorb!
+
+1. Copy and Paste either the en.ini file or the sp.ini file
+2. Name your new language file
+3. Open the language file and change any value you want with your new text
+4. (OPTIONAL) if you're adding a new hud for your language make a folder in the languages file, then for the each hud put "Languages/[foldername]/[image file name]"
+5. (OPTIONAL) Make sure any custom hud images are 683 x 384, if it isn't there's a HIGH chance your hud wont be centered.
+6. Go to List.ini and type the file name of your language file in the next available spot in the list (if this is your first custom language, it would go in slot 3)
+7. You're Done! just make sure to restart the game so the list could refresh!
